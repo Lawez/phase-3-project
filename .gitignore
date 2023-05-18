@@ -1,0 +1,9 @@
+Traffic_Crashes_-_Crashes  
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+*.db
+*.pytest_cache
+Traffic_Crashes_-_People
+Traffic_Crashes_-_Vehicles
+.data
