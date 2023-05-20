@@ -1,3 +1,4 @@
+
 Traffic_Crashes_-_Crashes  
 .ipynb_checkpoints
 .DS_Store
@@ -7,3 +8,4 @@ __pycache__
 Traffic_Crashes_-_People
 Traffic_Crashes_-_Vehicles
 .data
+geo data

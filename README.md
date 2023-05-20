@@ -9,7 +9,7 @@ The City of Chicago Vehicle Safety Board (CCVSB) interested in reducing traffic 
 
 The business problem is to build a classifier that can predict the primary contributory cause of car accidents in Chicago city.
 
-# Defing the Questions
+# Defineing the Questions
    1. *Are there any specific locations or road segments in Chicago city that have a higher frequency of car accidents?*
 
    2. *What are the contributing factors or characteristics associated with severe car accidents in Chicago city?*
