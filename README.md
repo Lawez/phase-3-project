@@ -2,8 +2,11 @@
 
 # Chicago City Crash analysis
 
+<p align="center">
+  <img width="800" height="400" src="https://github.com/Lawez/phase-3-project/tree/main/images/chicago_city.jpg">
+</p> 
 
-![chicago_city]()
+
 # Project Overview
 The City of Chicago Vehicle Safety Board (CCVSB) interested in reducing traffic accidents and becoming aware of any interesting patterns.
 
@@ -101,14 +104,14 @@ Provide actionable recommendations for the Vehicle Safety Board or the City of C
 #### Question one 
     *Are there any specific locations or road segments in Chicago city that have a higher frequency of car accidents?*
 
-    ### link
+![one.png](https://github.com/Lawez/phase-3-project/tree/main/images/one.png)
 
     The map highlights a significant concentration of accidents in the downtown area of Chicago, indicating a higher density of incidents in that region. The predominant color in this area is green, indicating that a majority of the accidents are attributed to intentional actions or driver errors. However, it's important to note that there are also scattered blue plots throughout the map, suggesting a considerable number of accidents that occur unintentionally or present opportunities for improvement in terms of safety measures.
 
 #### Question Two
     *What are the contributing factors or characteristics associated with severe car accidents in Chicago city?*
 
-    ### link
+![quiz_two.png](https://github.com/Lawez/phase-3-project/tree/main/images/quiz_two.png)
 
 Upon analyzing the contributing factors associated with control failures in unintentional accidents, it is evident that a majority of the accidents occurred when the driver's vision was not obscured. Furthermore, it is notable that these accidents occurred while the drivers were adhering to the posted speed limit, typically set at 30 mph. These findings suggest that factors other than vision or speed might be contributing to control failures in these accidents.
 
@@ -123,7 +126,7 @@ The analysis indicates that the roadway surface condition and road defects have 
 #### Question Three
     *Are there any seasonal or temporal patterns in car accidents in Chicago city?*
 
-    ### link
+![three.png](https://github.com/Lawez/phase-3-project/tree/main/images/three.png)
 
 The analysis of the crash time data reveals that a significant number of accidents in Chicago occur between the hours of 14 to 18, which coincides with the peak rush hour traffic. This suggests that the high volume of vehicles during these hours contributes to the increased accident rate. Considering the concentration of accidents in the downtown area during this time frame, it becomes apparent that better traffic management strategies are needed.
 
@@ -139,7 +142,7 @@ However, it is important to note that while there may be higher accident rates d
 #### Question Four
      *Can we build a classification model to predict the primary contributory cause of car accidents?*
 
-     ### Link
+![matrix.jpg](https://github.com/Lawez/phase-3-project/tree/main/images/matrix.jpg)
 
 ## Methods
 
